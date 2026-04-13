@@ -1,0 +1,9 @@
+{
+  "name": "login-lambda",
+  "version": "1.0.0",
+  "description": "Lambda Backend",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1480.0"
+  }
+}
